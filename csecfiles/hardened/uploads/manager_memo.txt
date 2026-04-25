@@ -1,0 +1,12 @@
+RESTRICTED -- Engineering Manager Strategy Memo
+================================================
+
+Author: Alex Manager
+Audience: Self only (private)
+
+Key items:
+  - Hiring plan for Q2
+  - Reorg proposal (do not circulate)
+  - Bonus pool recommendations
+
+If you are reading this and you are not the manager, this is an IDOR demonstration.

@@ -1,0 +1,4 @@
+1 | Site Administrator | admin@csecfiles.local   | admin   | admin123    | admin    | IT
+2 | John Doe           | john@csecfiles.local    | john    | password123 | employee | Engineering
+3 | Sara Khan          | sara@csecfiles.local    | sara    | password123 | employee | Marketing
+4 | Alex Manager       | manager@csecfiles.local | manager | manager123  | manager  | Engineering

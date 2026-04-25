@@ -1,0 +1,12 @@
+CONFIDENTIAL -- Annual Performance Review
+=========================================
+
+Employee: John Doe
+Manager : Alex Manager
+Period  : 2025
+
+Summary: Strong technical contributor. Recommended for promotion in Q2 2026.
+Salary band: Senior Engineer II.
+
+This file is private and should ONLY be visible to John Doe.
+If you can read this without being John, an IDOR vulnerability has been demonstrated.

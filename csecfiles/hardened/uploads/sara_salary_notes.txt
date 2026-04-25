@@ -1,0 +1,12 @@
+CONFIDENTIAL -- Personal Salary Negotiation Notes
+=================================================
+
+Author: Sara Khan
+Target band : Marketing Lead
+Counter-offer prep:
+  - Highlight Q4 campaign results
+  - Reference industry salary benchmark
+  - Ask about remote work allowance
+
+This file is private and should ONLY be visible to Sara.
+If you can read this without being Sara, an IDOR vulnerability has been demonstrated.

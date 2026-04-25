@@ -1,0 +1,11 @@
+CSecFiles Company Policy 2026
+=============================
+
+This document outlines the official company policy for the year 2026.
+It is shared with all employees as a public reference.
+
+Topics covered:
+- Working hours and remote work
+- Code of conduct
+- Information security responsibilities
+- Document classification levels
