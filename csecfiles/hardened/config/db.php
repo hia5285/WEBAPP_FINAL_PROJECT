@@ -10,7 +10,7 @@
 
 $DB_HOST = '127.0.0.1';
 $DB_USER = 'root';
-$DB_PASS = 'hassan';
+$DB_PASS = '';
 $DB_NAME = 'csecfiles';
 
 try {
